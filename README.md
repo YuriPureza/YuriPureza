@@ -1,5 +1,5 @@
 - Hi, I’m @YuriPureza
-- I’m interested in movies
+- I’m interested in movies and games
 - I’m currently learning Javascript
 - I’m looking to collaborate on ...
 - How to reach me ...
