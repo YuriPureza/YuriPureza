@@ -1,6 +1,6 @@
 - Hi, I’m @YuriPureza
 - I’m interested in movies and games
-- I’m currently learning Java
+- I’m currently learning network and infraestructure
 
 <!---
 YuriPureza/YuriPureza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
