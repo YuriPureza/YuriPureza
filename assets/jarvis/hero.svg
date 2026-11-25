@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="486" viewBox="0 0 360 245" role="img" aria-labelledby="label description">
+  <title id="label">J.A.R.V.I.S. Personal Interface / Yuri Pureza / IT Infrastructure &amp; Networking</title>
+  <desc id="description">A cyan triangular Arc Reactor with segmented cyan and gold rings in a Stark-inspired control panel.</desc>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .outer-ring, .inner-ring { transform-box: fill-box; transform-origin: center; }
+      .outer-ring { animation: align-outer 1800ms cubic-bezier(.16, 1, .3, 1) both; }
+      .inner-ring { animation: align-inner 1500ms 350ms ease-out both; }
+      .reactor-glow { animation: pulse 1600ms 1600ms ease-in-out both; }
+    }
+    @keyframes align-outer { from { transform: rotate(-38deg); } to { transform: rotate(0deg); } }
+    @keyframes align-inner { from { transform: rotate(24deg); } to { transform: rotate(0deg); } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 52% { opacity: .55; } }
+  </style>
+  <defs>
+  <radialGradient id="reactorGlow">
+  <stop offset="0%" stop-color="#00C8FF" stop-opacity=".35"/>
+  <stop offset="100%" stop-color="#00C8FF" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="hudgrid" width="15" height="15" patternUnits="userSpaceOnUse">
+  <path d="M15 0H0V15" stroke="#00C8FF" stroke-width=".4" opacity=".13" fill="none"/>
+  </pattern>
+  </defs>
+  <rect width="360" height="245" fill="#080D14"/>
+  <rect width="360" height="245" fill="url(#hudgrid)"/>
+  <path d="M4 38V14L14 4H110M250 4H346L356 14V38M4 205V231L14 241H110M250 241H346L356 231V205" stroke="#D4AF37" stroke-width="1.5" fill="none"/>
+  <path d="M5 53H42L57 38H83L95 50M355 53H318L303 38H277L265 50M5 173H37L62 148H93M355 173H323L298 148H267" fill="none" stroke="#00C8FF" opacity=".5"/>
+  <path d="M6 19H60L46 27H6ZM354 19H300L314 27H354Z" fill="#B91C24"/>
+  <text x="180" y="20" fill="#D4AF37" font-size="8.5" font-family="monospace" text-anchor="middle" letter-spacing="1">STARK-INSPIRED SYSTEM</text>
+  <circle class="reactor-glow" cx="180" cy="90" r="67" fill="url(#reactorGlow)"/>
+  <circle cx="180" cy="90" r="51" stroke="#00C8FF" stroke-width=".7" stroke-dasharray="2 4" fill="none"/>
+  <circle class="outer-ring" cx="180" cy="90" r="44" stroke="#00C8FF" stroke-width="5" stroke-dasharray="28 6.56" fill="none"/>
+  <circle class="inner-ring" cx="180" cy="90" r="34" stroke="#D4AF37" stroke-width="2" stroke-dasharray="10 25.6" fill="none"/>
+  <circle cx="180" cy="90" r="26" stroke="#00C8FF" stroke-width="3" fill="#00C8FF" fill-opacity=".12"/>
+  <path d="M180 68L199 101H161Z" fill="#00C8FF" opacity=".7"/>
+  <path d="M180 77L192 98H168Z" fill="#E6F4FF"/>
+  <g font-family="monospace" font-size="7" fill="#00C8FF">
+  <text x="20" y="83">CORE ONLINE</text>
+  <text x="20" y="95" opacity=".6">SYS://READY</text>
+  <text x="267" y="83">J.A.R.V.I.S.</text>
+  <text x="267" y="95" opacity=".6">INITIALIZED</text>
+  </g>
+  <g font-family="Inter, 'Segoe UI', Arial, sans-serif" text-anchor="middle">
+  <text x="180" y="162" font-size="23" font-weight="bold" letter-spacing="3" fill="#E6F4FF">J.A.R.V.I.S.</text>
+  <text x="180" y="176" font-size="8" letter-spacing="2.7" fill="#00C8FF">PERSONAL INTERFACE</text>
+  <path d="M70 187H290" stroke="#00C8FF" opacity=".3"/>
+  <text x="180" y="207" font-size="17" font-weight="bold" letter-spacing="2" fill="#E6F4FF">YURI PUREZA</text>
+  <text x="180" y="224" font-size="10" letter-spacing=".7" fill="#D4AF37">IT INFRASTRUCTURE &amp; NETWORKING</text>
+  </g>
+</svg>

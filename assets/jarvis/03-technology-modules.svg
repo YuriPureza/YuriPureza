@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="34" viewBox="23 1004 714 34" role="img" aria-labelledby="label description">
+  <title id="label">03 // TECHNOLOGY MODULES</title>
+  <desc id="description">HUD section label.</desc>
+  <style>
+    @media (max-width: 560px) {
+      .section-label { font-size: 24px; }
+      .section-rule { display: none; }
+    }
+  </style>
+  <rect x="23" y="1004" width="714" height="34" rx="4" fill="#080D14"/>
+  <text x="24" y="1031" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="18" fill="#00C8FF" font-weight="700" class="section-label">03 // TECHNOLOGY MODULES</text>
+  <path class="section-rule" d="M280.4 1025H736" stroke="#164052"/>
+</svg>

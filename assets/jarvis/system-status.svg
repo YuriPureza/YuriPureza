@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="39" viewBox="23 512 714 39" role="img" aria-labelledby="label description">
+  <title id="label">System Online / Operator Recognized</title>
+  <desc id="description">Decorative status of the interface.</desc>
+  <style>
+    @media (max-width: 560px) { .status-label { font-size: 22px; } }
+  </style>
+  <rect x="23" y="512" width="714" height="39" rx="4" fill="#080D14"/>
+  <circle cx="29" cy="532" r="4" fill="#00C8FF"/>
+  <text x="42" y="537" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" class="status-label" font-weight="400" fill="#00C8FF" text-anchor="start" letter-spacing="0">SYSTEM ONLINE</text>
+  <text x="736" y="537" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" class="status-label" font-weight="400" fill="#D4AF37" text-anchor="end" letter-spacing="0">OPERATOR RECOGNIZED</text>
+</svg>

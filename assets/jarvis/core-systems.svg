@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="216" viewBox="23 780 714 216" role="img" aria-labelledby="label description">
+  <title id="label">Core Systems</title>
+  <desc id="description">Infrastructure: systems and IT environments. Networking: connectivity and protocols. Technical Support: troubleshooting and user support. Development: interest in software.</desc>
+  <rect x="24" y="781" width="350" height="102" rx="6" fill="#0B1723" stroke="#164052" stroke-width="1"/>
+  <g transform="translate(40 793) scale(1.0833333333333333)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="3" y="3" width="18" height="8" rx="2"/>
+  <rect x="3" y="13" width="18" height="8" rx="2"/>
+  <path d="M7 7h.01M7 17h.01M11 7h6M11 17h6"/>
+  </g>
+  <text x="40" y="841" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#E6F4FF" text-anchor="start" letter-spacing="0">Infrastructure</text>
+  <text x="40" y="861" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#8FAABD" text-anchor="start" letter-spacing="0">Systems &amp; IT environments</text>
+  <rect x="40" y="871" width="80" height="2" rx="0" fill="#D4AF37" stroke="none" stroke-width="1"/>
+  <rect x="386" y="781" width="350" height="102" rx="6" fill="#0B1723" stroke="#164052" stroke-width="1"/>
+  <g transform="translate(402 793) scale(1.0833333333333333)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="9" y="2" width="6" height="6" rx="1"/>
+  <rect x="2" y="16" width="6" height="6" rx="1"/>
+  <rect x="16" y="16" width="6" height="6" rx="1"/>
+  <path d="M12 8v4M5 16v-4h14v4"/>
+  </g>
+  <text x="402" y="841" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#E6F4FF" text-anchor="start" letter-spacing="0">Networking</text>
+  <text x="402" y="861" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#8FAABD" text-anchor="start" letter-spacing="0">Connectivity &amp; protocols</text>
+  <rect x="402" y="871" width="80" height="2" rx="0" fill="#D4AF37" stroke="none" stroke-width="1"/>
+  <rect x="24" y="893" width="350" height="102" rx="6" fill="#0B1723" stroke="#164052" stroke-width="1"/>
+  <g transform="translate(40 905) scale(1.0833333333333333)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M3 14v-3a9 9 0 0 1 18 0v3M3 13h3a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2zM21 13h-3a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2z"/>
+  </g>
+  <text x="40" y="953" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#E6F4FF" text-anchor="start" letter-spacing="0">Technical Support</text>
+  <text x="40" y="973" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#8FAABD" text-anchor="start" letter-spacing="0">Troubleshooting &amp; user support</text>
+  <rect x="40" y="983" width="80" height="2" rx="0" fill="#D4AF37" stroke="none" stroke-width="1"/>
+  <rect x="386" y="893" width="350" height="102" rx="6" fill="#0B1723" stroke="#164052" stroke-width="1"/>
+  <g transform="translate(402 905) scale(1.0833333333333333)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m8 6-6 6 6 6M16 6l6 6-6 6M14 4l-4 16"/>
+  </g>
+  <text x="402" y="953" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#E6F4FF" text-anchor="start" letter-spacing="0">Development</text>
+  <text x="402" y="973" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#8FAABD" text-anchor="start" letter-spacing="0">Complementary software interest</text>
+  <rect x="402" y="983" width="80" height="2" rx="0" fill="#D4AF37" stroke="none" stroke-width="1"/>
+</svg>

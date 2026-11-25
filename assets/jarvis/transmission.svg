@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="102" viewBox="0 0 350 50" role="img" aria-labelledby="label description">
+  <title id="label">End of Transmission</title>
+  <desc id="description">All systems online.</desc>
+  <rect width="350" height="50" rx="4" fill="#080D14"/>
+  <path d="M0 6H126L136 11H214L224 6H350" stroke="#00C8FF" fill="none"/>
+  <path d="M0 7H55L48 11H0M350 7H295L302 11H350" fill="#B91C24"/>
+  <path d="M175 5L180 10L175 15L170 10Z" fill="#D4AF37"/>
+  <text x="175" y="31" text-anchor="middle" fill="#E6F4FF" font-family="monospace" font-size="9" letter-spacing="2">END OF TRANSMISSION</text>
+  <text x="175" y="44" text-anchor="middle" fill="#00C8FF" font-family="monospace" font-size="7" letter-spacing="2">ALL SYSTEMS ONLINE</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="174" viewBox="23 557 714 174" role="img" aria-labelledby="label description">
+  <title id="label">01 // Operator Profile</title>
+  <desc id="description">Welcome to my interface. IT infrastructure, technical support and networking. Currently studying networking and IT infrastructure.</desc>
+  <rect x="24" y="558" width="712" height="172" rx="6" fill="#0C1824" stroke="#164052" stroke-width="1"/>
+  <text x="44" y="584" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#00C8FF" text-anchor="start" letter-spacing="0">01 // OPERATOR PROFILE</text>
+  <path d="M44 596H716" stroke="#164052" stroke-width="1"/>
+  <text x="44" y="626" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="#E6F4FF" text-anchor="start" letter-spacing="0">Welcome to my interface.</text>
+  <text x="44" y="654" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#A9C4D8" text-anchor="start" letter-spacing="0">IT infrastructure, technical support and networking.</text>
+  <text x="44" y="675" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#A9C4D8" text-anchor="start" letter-spacing="0">Currently studying networking and IT infrastructure.</text>
+  <rect x="44" y="689" width="148" height="26" rx="4" fill="#0C1824" stroke="#665A32" stroke-width="1"/>
+  <text x="53" y="707" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#D4AF37" text-anchor="start" letter-spacing="0">INFRASTRUCTURE</text>
+  <rect x="202" y="689" width="119" height="26" rx="4" fill="#0C1824" stroke="#18536B" stroke-width="1"/>
+  <text x="211" y="707" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#00C8FF" text-anchor="start" letter-spacing="0">NETWORKING</text>
+  <rect x="331" y="689" width="101" height="26" rx="4" fill="#0C1824" stroke="#18536B" stroke-width="1"/>
+  <text x="340" y="707" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#00C8FF" text-anchor="start" letter-spacing="0">IT SUPPORT</text>
+</svg>

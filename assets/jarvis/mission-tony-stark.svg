@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="122" viewBox="23 1372 714 122" role="img" aria-labelledby="label description">
+  <title id="label">Project Tony Stark</title>
+  <desc id="description">Planned. A personal AI assistant inspired by J.A.R.V.I.S.</desc>
+  <rect x="24" y="1373" width="712" height="120" rx="6" fill="#0C1824" stroke="#164052" stroke-width="1"/>
+  <g transform="translate(42 1385) scale(0.9583333333333334)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="5" y="5" width="14" height="14" rx="2"/>
+  <rect x="9" y="9" width="6" height="6" rx="1"/>
+  <path d="M9 2v3M15 2v3M9 19v3M15 19v3M2 9h3M2 15h3M19 9h3M19 15h3"/>
+  </g>
+  <text x="76" y="1402" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#00C8FF" text-anchor="start" letter-spacing="0">MISSION FILE // 002</text>
+  <text x="718" y="1402" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#A9C4D8" text-anchor="end" letter-spacing="0">PLANNED</text>
+  <text x="44" y="1433" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#E6F4FF" text-anchor="start" letter-spacing="0">Project Tony Stark</text>
+  <text x="44" y="1454" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#A9C4D8" text-anchor="start" letter-spacing="0">A personal AI assistant inspired by J.A.R.V.I.S.</text>
+  <path d="M44 1464H716" stroke="#164052" stroke-width="1"/>
+  <text x="44" y="1482" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#00C8FF" text-anchor="start" letter-spacing="0">AI / SOFTWARE</text>
+</svg>

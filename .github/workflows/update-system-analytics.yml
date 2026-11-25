@@ -1,0 +1,53 @@
+name: Update System Analytics
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      validate_only:
+        description: Verify API access and generate the SVG without publishing it
+        type: boolean
+        default: false
+
+permissions: {}
+
+concurrency:
+  group: system-analytics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'YuriPureza/YuriPureza' && github.ref_name == github.event.repository.default_branch && github.event.repository.private == false
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Generate analytics from GitHub GraphQL
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/update-analytics.mjs
+
+      - name: Commit and push the updated SVG
+        if: github.event_name == 'schedule' || !inputs.validate_only
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        shell: bash
+        run: |
+          asset=assets/jarvis/analytics.svg
+          git add -- "$asset"
+          changed=$(git diff --cached --name-only -- "$asset")
+          if [[ -z "$changed" ]]; then
+            echo "Analytics is already current."
+            exit 0
+          fi
+
+          git -c user.name='github-actions[bot]' \
+            -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -m "chore: refresh system analytics" -- "$asset"
+          git push origin "HEAD:refs/heads/${DEFAULT_BRANCH}"
