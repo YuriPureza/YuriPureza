@@ -4,13 +4,47 @@
   <style>
     @media (prefers-reduced-motion: no-preference) {
       .outer-ring, .inner-ring { transform-box: fill-box; transform-origin: center; }
-      .outer-ring { animation: align-outer 1800ms cubic-bezier(.16, 1, .3, 1) both; }
-      .inner-ring { animation: align-inner 1500ms 350ms ease-out both; }
-      .reactor-glow { animation: pulse 1600ms 1600ms ease-in-out both; }
+
+      .outer-ring {
+        --activity-angle: 18deg;
+        animation: align-outer 1800ms cubic-bezier(.16, 1, .3, 1) both,
+          ring-activity 12s 3200ms ease-in-out infinite;
+      }
+      .inner-ring {
+        --activity-angle: -12deg;
+        animation: align-inner 1500ms 350ms ease-out both,
+          ring-activity 12s 3200ms ease-in-out infinite;
+      }
+      .reactor-glow {
+        --rest-opacity: 1;
+        --activity-opacity: .89;
+        animation: pulse 1600ms 1600ms ease-in-out both,
+          core-activity 6s 3200ms ease-in-out infinite;
+      }
+      .core-accent {
+        --rest-opacity: .7;
+        --activity-opacity: .81;
+      }
+      .core-center {
+        --rest-opacity: 1;
+        --activity-opacity: .92;
+      }
+      .core-accent, .core-center {
+        animation: core-activity 6s 3200ms ease-in-out infinite;
+      }
     }
     @keyframes align-outer { from { transform: rotate(-38deg); } to { transform: rotate(0deg); } }
     @keyframes align-inner { from { transform: rotate(24deg); } to { transform: rotate(0deg); } }
     @keyframes pulse { 0%, 100% { opacity: 1; } 52% { opacity: .55; } }
+
+    @keyframes ring-activity {
+      0%, 42%, 100% { transform: rotate(0deg); }
+      21% { transform: rotate(var(--activity-angle)); }
+    }
+    @keyframes core-activity {
+      0%, 48%, 100% { opacity: var(--rest-opacity); }
+      24% { opacity: var(--activity-opacity); }
+    }
   </style>
   <defs>
   <radialGradient id="reactorGlow">
@@ -32,8 +66,8 @@
   <circle class="outer-ring" cx="180" cy="90" r="44" stroke="#00C8FF" stroke-width="5" stroke-dasharray="28 6.56" fill="none"/>
   <circle class="inner-ring" cx="180" cy="90" r="34" stroke="#D4AF37" stroke-width="2" stroke-dasharray="10 25.6" fill="none"/>
   <circle cx="180" cy="90" r="26" stroke="#00C8FF" stroke-width="3" fill="#00C8FF" fill-opacity=".12"/>
-  <path d="M180 68L199 101H161Z" fill="#00C8FF" opacity=".7"/>
-  <path d="M180 77L192 98H168Z" fill="#E6F4FF"/>
+  <path class="core-accent" d="M180 68L199 101H161Z" fill="#00C8FF" opacity=".7"/>
+  <path class="core-center" d="M180 77L192 98H168Z" fill="#E6F4FF"/>
   <g font-family="monospace" font-size="7" fill="#00C8FF">
   <text x="20" y="83">CORE ONLINE</text>
   <text x="20" y="95" opacity=".6">SYS://READY</text>
