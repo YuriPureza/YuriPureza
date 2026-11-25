@@ -63,3 +63,7 @@
 <p align="center">
   <img src="./assets/jarvis/transmission.svg" alt="End of Transmission. All Systems Online.">
 </p>
+
+<p>
+  Projeto feito por mim utilizando o codex da OpenAI
+</p>
