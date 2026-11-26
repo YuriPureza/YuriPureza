@@ -1,19 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="714" height="144" viewBox="23 1046 714 144" role="img" aria-labelledby="label description">
   <title id="label">Technology Modules</title>
-  <desc id="description">Project tools and environments: Windows, draw.io, GitHub and Git. Topics: networking, NVMe, storage and software development.</desc>
+  <desc id="description">Areas of work, knowledge, interest and study: Operating Systems, Software Architecture, Networking, Security, IT Governance, Server Infrastructure, Git and Software Development.</desc>
   <rect x="24" y="1047" width="169" height="66" rx="6" fill="#0C1824" stroke="#254454" stroke-width="1"/>
   <g transform="translate(96 1055) scale(1.0416666666666667)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
   <rect x="2" y="3" width="20" height="14" rx="2"/>
   <path d="M12 17v4M7 21h10"/>
   </g>
-  <text x="108.5" y="1100" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">Windows</text>
+  <text x="108.5" y="1100" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">Operating Systems</text>
   <rect x="205" y="1047" width="169" height="66" rx="6" fill="#0C1824" stroke="#254454" stroke-width="1"/>
   <g transform="translate(277 1055) scale(1.0416666666666667)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-  <rect x="3" y="3" width="6" height="6" rx="1"/>
-  <rect x="15" y="15" width="6" height="6" rx="1"/>
-  <path d="M6 9v9h9"/>
+  <rect x="2" y="3" width="8" height="7" rx="1"/>
+  <rect x="14" y="3" width="8" height="7" rx="1"/>
+  <rect x="8" y="15" width="8" height="6" rx="1"/>
+  <path d="M10 6.5h4m-2 0V15"/>
   </g>
-  <text x="289.5" y="1100" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">draw.io</text>
+  <text x="289.5" y="1100" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">Software Architecture</text>
   <rect x="386" y="1047" width="169" height="66" rx="6" fill="#0C1824" stroke="#254454" stroke-width="1"/>
   <g transform="translate(458 1055) scale(1.0416666666666667)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
   <rect x="9" y="2" width="6" height="6" rx="1"/>
@@ -24,21 +25,23 @@
   <text x="470.5" y="1100" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">Networking</text>
   <rect x="567" y="1047" width="169" height="66" rx="6" fill="#0C1824" stroke="#254454" stroke-width="1"/>
   <g transform="translate(639 1055) scale(1.0416666666666667)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-  <rect x="3" y="7" width="18" height="10" rx="2"/>
-  <path d="M7 11h4m-4 3h4m4-3h2m-2 3h2m4-2h2"/>
+  <path d="M12 2l8 3v6c0 5-3.5 8.5-8 11-4.5-2.5-8-6-8-11V5z"/>
+  <path d="m8.5 12 2.5 2.5 4.5-5"/>
   </g>
-  <text x="651.5" y="1100" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">NVMe</text>
+  <text x="651.5" y="1100" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">Security</text>
   <rect x="24" y="1123" width="169" height="66" rx="6" fill="#0C1824" stroke="#254454" stroke-width="1"/>
   <g transform="translate(96 1131) scale(1.0416666666666667)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M6 4h13v16H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm-2 12h15m-10-7h6"/>
+  <rect x="4" y="3" width="16" height="18" rx="2"/>
+  <path d="m7 8 1 1 2-2m3 2h4m-10 6 1 1 2-2m3 2h4"/>
   </g>
-  <text x="108.5" y="1176" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">GitHub</text>
+  <text x="108.5" y="1176" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">IT Governance</text>
   <rect x="205" y="1123" width="169" height="66" rx="6" fill="#0C1824" stroke="#254454" stroke-width="1"/>
   <g transform="translate(277 1131) scale(1.0416666666666667)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-  <ellipse cx="12" cy="5" rx="9" ry="3"/>
-  <path d="M3 5v14c0 4 18 4 18 0V5M3 12c0 4 18 4 18 0"/>
+  <rect x="3" y="3" width="18" height="7" rx="1.5"/>
+  <rect x="3" y="14" width="18" height="7" rx="1.5"/>
+  <path d="M7 6.5h1m4 0h5M7 17.5h1m4 0h5"/>
   </g>
-  <text x="289.5" y="1176" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">Storage</text>
+  <text x="289.5" y="1176" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">Server Infrastructure</text>
   <rect x="386" y="1123" width="169" height="66" rx="6" fill="#0C1824" stroke="#254454" stroke-width="1"/>
   <g transform="translate(458 1131) scale(1.0416666666666667)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
   <circle cx="6" cy="5" r="2.5"/>
@@ -51,5 +54,5 @@
   <g transform="translate(639 1131) scale(1.0416666666666667)" fill="none" stroke="#00C8FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
   <path d="m8 6-6 6 6 6M16 6l6 6-6 6M14 4l-4 16"/>
   </g>
-  <text x="651.5" y="1176" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">Software</text>
+  <text x="651.5" y="1176" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#E6F4FF" text-anchor="middle" letter-spacing="0">Software Development</text>
 </svg>

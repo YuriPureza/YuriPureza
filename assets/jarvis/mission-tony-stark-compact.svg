@@ -7,7 +7,7 @@
   <rect x="9" y="9" width="6" height="6" rx="1"/>
   <path d="M9 2v3M15 2v3M9 19v3M15 19v3M2 9h3M2 15h3M19 9h3M19 15h3"/>
   </g>
-  <text x="37" y="24" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#00C8FF">MISSION FILE // 002</text>
+  <text x="37" y="24" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#00C8FF">MISSION FILE // 003</text>
   <text x="347" y="24" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#A9C4D8" text-anchor="end">PLANNED</text>
   <text x="12" y="59" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="21" fill="#E6F4FF" font-weight="700">Project Tony Stark</text>
   <text x="12" y="82" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#A9C4D8">A personal AI assistant</text>

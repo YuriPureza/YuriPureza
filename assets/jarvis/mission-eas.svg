@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="140" viewBox="23 1240 714 140" role="img" aria-labelledby="label description">
+  <title id="label">Projeto-E.A.S</title>
+  <desc id="description">Learning Archive. In Progress. A dedicated learning archive for software architecture, documenting concepts, studies, and daily learning progress. Tags: Software Architecture, Engineering and Learning.</desc>
+  <rect x="24" y="1241" width="712" height="138" rx="6" fill="#0C1824" stroke="#665A32" stroke-width="1"/>
+  <g transform="translate(42 1253) scale(0.9583333333333334)" fill="none" stroke="#D4AF37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 6C9 4 5 3 2 4v15c3-1 7 0 10 2 3-2 7-3 10-2V4c-3-1-7 0-10 2zm0 0v15M5 8l4 1m-4 3 4 1m6-4 4-1m-4 5 4-1"/>
+  </g>
+  <text x="76" y="1270" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#D4AF37" text-anchor="start" letter-spacing="0">MISSION FILE // 002</text>
+  <text x="718" y="1270" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#D4AF37" text-anchor="end" letter-spacing="0">IN PROGRESS</text>
+  <text x="44" y="1301" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#E6F4FF" text-anchor="start" letter-spacing="0">Projeto-E.A.S</text>
+  <text x="718" y="1301" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" fill="#A9C4D8" text-anchor="end">Learning Archive</text>
+  <text x="44" y="1322" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#A9C4D8" text-anchor="start" letter-spacing="0">A dedicated learning archive for software architecture,</text>
+  <text x="44" y="1340" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#A9C4D8" text-anchor="start" letter-spacing="0">documenting concepts, studies, and daily learning progress.</text>
+  <path d="M44 1350H716" stroke="#4A422A" stroke-width="1"/>
+  <text x="44" y="1368" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#00C8FF" text-anchor="start" letter-spacing="0">SOFTWARE ARCHITECTURE / ENGINEERING / LEARNING</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="307" viewBox="0 0 360 155" role="img" aria-labelledby="label description">
+  <title id="label">Projeto-E.A.S</title>
+  <desc id="description">Learning Archive. In Progress. A dedicated learning archive for software architecture, documenting concepts, studies, and daily learning progress. Tags: Software Architecture, Engineering and Learning.</desc>
+  <rect x="0.5" y="0.5" width="359" height="154" rx="6" fill="#0C1824" stroke="#665A32"/>
+  <g transform="translate(10 9) scale(.86)" fill="none" stroke="#D4AF37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 6C9 4 5 3 2 4v15c3-1 7 0 10 2 3-2 7-3 10-2V4c-3-1-7 0-10 2zm0 0v15M5 8l4 1m-4 3 4 1m6-4 4-1m-4 5 4-1"/>
+  </g>
+  <text x="37" y="24" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#D4AF37">MISSION FILE // 002</text>
+  <text x="347" y="24" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#D4AF37" text-anchor="end">IN PROGRESS</text>
+  <text x="12" y="59" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="21" fill="#E6F4FF" font-weight="700">Projeto-E.A.S</text>
+  <text x="347" y="59" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#A9C4D8" text-anchor="end">Learning Archive</text>
+  <text x="12" y="82" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#A9C4D8">A dedicated learning archive for software</text>
+  <text x="12" y="98" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#A9C4D8">architecture, documenting concepts, studies,</text>
+  <text x="12" y="114" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#A9C4D8">and daily learning progress.</text>
+  <path d="M12 128H348" stroke="#665A32"/>
+  <text x="12" y="146" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="10.9" fill="#00C8FF">SOFTWARE ARCHITECTURE / ENGINEERING / LEARNING</text>
+</svg>

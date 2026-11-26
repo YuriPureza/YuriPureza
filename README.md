@@ -30,7 +30,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 560px)" srcset="./assets/jarvis/technology-modules-compact.svg">
-    <img src="./assets/jarvis/technology-modules.svg" alt="Documented environments and tools: Windows, draw.io, GitHub and Git. Study and project topics: networking, NVMe, storage and software development.">
+    <img src="./assets/jarvis/technology-modules.svg" alt="Areas of work, knowledge, interest and study: Operating Systems, Software Architecture, Networking, Security, IT Governance, Server Infrastructure, Git and Software Development.">
   </picture>
 </p>
 
@@ -41,6 +41,15 @@
     <picture>
       <source media="(max-width: 560px)" srcset="./assets/jarvis/mission-eegd-compact.svg">
       <img src="./assets/jarvis/mission-eegd.svg" alt="Projeto_E.E.G.D — In Progress. IT infrastructure case study covering hardware and NVMe storage. Open the project repository.">
+    </picture>
+  </a>
+</h3>
+
+<h3 align="center">
+  <a href="https://github.com/YuriPureza/Projeto-E.A.S">
+    <picture>
+      <source media="(max-width: 560px)" srcset="./assets/jarvis/mission-eas-compact.svg">
+      <img src="./assets/jarvis/mission-eas.svg" alt="Projeto-E.A.S — Learning Archive — In Progress. A dedicated learning archive for software architecture, documenting concepts, studies, and daily learning progress. Tags: Software Architecture, Engineering and Learning. Open the project repository.">
     </picture>
   </a>
 </h3>
