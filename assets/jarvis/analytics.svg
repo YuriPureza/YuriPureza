@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="712" height="164" viewBox="0 0 712 164" role="img" aria-labelledby="title desc">
   <title id="title">GitHub contribution telemetry</title>
-  <desc id="desc">20 contributions reported by the GitHub GraphQL API for YuriPureza, 2026-05-03 to 2026-11-27 UTC. Columns are weeks, with Sunday through Saturday from top to bottom. Brighter squares show more contributions. Future days are left blank.</desc>
+  <desc id="desc">20 contributions reported by the GitHub GraphQL API for YuriPureza, 2026-05-03 to 2026-11-28 UTC. Columns are weeks, with Sunday through Saturday from top to bottom. Brighter squares show more contributions. Future days are left blank.</desc>
   <style>
     @media (max-width: 560px) {
       .chart-caption { font-size: 22px; }
@@ -221,9 +221,10 @@
     <rect x="669.6" y="84" width="18" height="10" rx="2" fill="#008CAC" data-date="2026-11-25" data-count="3"><title>2026-11-25: 3</title></rect>
     <rect x="669.6" y="97" width="18" height="10" rx="2" fill="#00AED6" data-date="2026-11-26" data-count="5"><title>2026-11-26: 5</title></rect>
     <rect x="669.6" y="110" width="18" height="10" rx="2" fill="#142533" data-date="2026-11-27" data-count="0"><title>2026-11-27: 0</title></rect>
+    <rect x="669.6" y="123" width="18" height="10" rx="2" fill="#142533" data-date="2026-11-28" data-count="0"><title>2026-11-28: 0</title></rect>
   </g>
   <g class="chart-detail" fill="#A9C4D8" font-family="system-ui, sans-serif" font-size="13" aria-hidden="true">
-    <text x="20" y="149">2026-05-03 &#8212; 2026-11-27 UTC</text>
+    <text x="20" y="149">2026-05-03 &#8212; 2026-11-28 UTC</text>
     <text x="485" y="149">Less</text>
     <rect x="533" y="140" width="11" height="9" rx="2" fill="#142533"/>
     <rect x="548" y="140" width="11" height="9" rx="2" fill="#12617A"/>
